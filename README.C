@@ -1,4 +1,3 @@
-# HOTEL-MANAGMENT-SYSTEM-IN-C-CODE-
 #include<stdio.h>
 #include<stdlib.h>
 int strct();
